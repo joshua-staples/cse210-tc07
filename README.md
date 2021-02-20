@@ -5,3 +5,7 @@ I am a Junior studying computer science. In my free time I enjoy playing videos 
 
 Logan Huston
 I am a Junior studying Computer Science. I spend far too much time on YouTube, video games, and reading. Other things I tend to do are play piano and contemplate my existence. I'm not sure what else to put in "get to know you" paragraphs so.... Fin.
+
+Spencer Wigren
+I'm studying computer science. Right now I'm working at Farmingtion High School, with their winter drum line. I like to play video games and model in blender when I have free time.
+
