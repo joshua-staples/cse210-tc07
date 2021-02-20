@@ -10,3 +10,5 @@ I am a Junior studying Computer Science. I spend far too much time on YouTube, v
 Spencer Wigren
 I'm studying computer science. Right now I'm working at Farmingtion High School, with their winter drum line. I like to play video games and model in blender when I have free time.
 
+David Del Sol 
+I am software engineering major and I am originially from Cuba. I am currently working as a Technical Support Specialist for a medical company based in Salt Lake City. In my free time I enjoy making music and spending time with my wife.
